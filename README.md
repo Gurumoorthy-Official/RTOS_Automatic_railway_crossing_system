@@ -5,6 +5,8 @@ Automated railway crossing system that:
   Controls a gate (servo motor) safely
   Signals road users with Lights(LEDs)
   Runs deterministically using FreeRTOS
+
+  
 **FreeRTOS concepts**  
 Uses two semaphores for
     trainApproach
