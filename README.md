@@ -1,4 +1,4 @@
-# Automatic_railway_crossing_system
+# Automatic railway crossing system
 Automated railway crossing system that:
   Detects approaching trains automatically
   Checks the road is clear before closing
